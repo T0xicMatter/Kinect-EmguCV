@@ -1,0 +1,1 @@
+This project is to integrate OpenCV's C# wrapper - EmguCV, with Kinect, in a WPF application using Kinect SDK 1.7.
